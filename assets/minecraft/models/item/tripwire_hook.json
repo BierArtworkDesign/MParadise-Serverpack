@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/tripwire_hook"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "item/tripwire_hook/tripwire_hook_1" },
+        { "predicate": { "custom_model_data": 2 }, "model": "item/tripwire_hook/tripwire_hook_2" },
+        { "predicate": { "custom_model_data": 3 }, "model": "item/tripwire_hook/tripwire_hook_3" }
+    ]
+}
